@@ -6,7 +6,8 @@ div.a{
 text-align: center;
 }
 body {
-  background-image: url(https://discovery.sndimg.com/content/dam/images/discovery/fullset/2020/4/2/nightsky2_getty.jpg.rend.hgtvcom.616.411.suffix/1585862428885.jpeg);
+  background-image: url(https://wallpaperaccess.com/full/345330.jpg);
+  background-size: cover;
 }
 
 .topnav {
